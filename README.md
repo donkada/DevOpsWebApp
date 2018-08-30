@@ -2,6 +2,8 @@
 
 mvn clean test
 
+mvn clean test
+
 mvn clean install
 
 mvn clean install
